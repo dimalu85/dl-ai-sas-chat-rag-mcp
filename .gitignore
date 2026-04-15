@@ -205,3 +205,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+.DS_Store
+chroma_db/chroma.sqlite3
+chroma_db/4cb9790b-a60a-49cb-9da0-9e93303d9dae/data_level0.bin
+chroma_db/4cb9790b-a60a-49cb-9da0-9e93303d9dae/header.bin
+chroma_db/4cb9790b-a60a-49cb-9da0-9e93303d9dae/index_metadata.pickle
+chroma_db/4cb9790b-a60a-49cb-9da0-9e93303d9dae/length.bin
+chroma_db/4cb9790b-a60a-49cb-9da0-9e93303d9dae/link_lists.bin
+data/1900_2021_DISASTERS.xlsx - emdat data.csv
+data/1970-2021_DISASTERS.xlsx - emdat data.csv
+docs/.DS_Store
