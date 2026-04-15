@@ -68,7 +68,7 @@ Open `natural-disaster-chat-app.ipynb` in Jupyter or VS Code and run cells top-t
 ## Dataset
 
 - **EM-DAT International Disaster Database** (1970-2021): 14,644 records across 228 countries
-- Source: [EM-DAT (CRED)](https://www.emdat.be/) / [Kaggle mirror](https://www.kaggle.com/datasets/brsdincer/all-natural-disasters-1900-2021)
+- Source: [EM-DAT (CRED)](https://www.emdat.be/) / [Kaggle mirror](https://www.kaggle.com/datasets/brsdincer/all-natural-disasters-19002021-eosdis)
 - File: `data/1970-2021_DISASTERS.xlsx - emdat data.csv`
 - (Optional) PDF knowledge base in `data/pdfs/`
 
